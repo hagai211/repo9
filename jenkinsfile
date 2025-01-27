@@ -1,0 +1,3 @@
+#!/bin/bash
+touch new_file.txt
+echo "Hello from Pipeline"
