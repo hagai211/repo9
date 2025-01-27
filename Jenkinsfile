@@ -9,8 +9,8 @@ pipeline {
         }
         stage('Print messege') {
             steps {
-              echo 'Hello from pipeline'
+                echo 'Hello from pipeline'
+            }
         }
-      }
     }
-  }
+}
